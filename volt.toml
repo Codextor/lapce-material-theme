@@ -1,0 +1,7 @@
+name = "material-theme"
+display-name = "Material Theme"
+description = "Material Theme for Lapce"
+version = "1.0.0"
+author = "Codextor"
+repository = "https://github.com/codextor/lapce-material-theme"
+themes = ["material-theme.toml"]
