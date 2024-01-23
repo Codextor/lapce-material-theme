@@ -5,4 +5,4 @@ version = "1.1.0"
 author = "Codextor"
 repository = "https://github.com/codextor/lapce-material-theme"
 icon = "material-theme-icon.png"
-color-themes = ["material-theme.toml", "material-theme-high-contrast.toml"]
+color-themes = ["material-theme.toml", "material-theme-high-contrast.toml", "material-theme-darker.toml"]
