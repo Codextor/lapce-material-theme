@@ -3,11 +3,13 @@
 The most epic theme meets Lapce.
 Inspired by Mattia Astorino's Material Theme for [Visual Studio Code](https://github.com/material-theme/vsc-material-theme).
 
+Get the theme from the [Lapce Plugin Store](https://plugins.lapce.dev/plugins/Codextor/material-theme).
+
 You can help by reporting issues [`HERE`](https://github.com/codextor/lapce-material-theme/issues)
 
-![Screenshot](https://i.imgur.com/SvVVxFj.png)
+![Material Theme Screenshot](https://i.imgur.com/SvVVxFj.png)
 
-![Screenshot](https://i.imgur.com/aPO0wYs.png)
+![Material Theme Darker Screenshot](https://i.imgur.com/aPO0wYs.png)
 
 ---
 
